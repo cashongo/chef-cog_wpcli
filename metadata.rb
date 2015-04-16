@@ -1,0 +1,7 @@
+name             'cog_wpcli'
+maintainer       'YOUR_NAME'
+maintainer_email 'lauri.jesmin@cashongo.co.uk'
+license          'All rights reserved'
+description      'Installs/Configures cog_wpcli'
+long_description 'Installs/Configures cog_wpcli'
+version          '0.1.1'
