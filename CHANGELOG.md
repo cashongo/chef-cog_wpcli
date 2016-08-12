@@ -1,3 +1,7 @@
+### 0.1.9
+
+- Upgraded wp-cli to 0.24.1
+
 ### 0.1.8
 
 - Upgraded wp-cli to 0.23.0
